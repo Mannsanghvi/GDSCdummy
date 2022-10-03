@@ -1,0 +1,149 @@
+html{
+    height: 100%;
+    widows: 100%;
+}
+
+body{
+    height: 100%;
+    width: 100%;
+}
+
+
+.background-img{
+    background-image: url(./shubham-dhage-R2HtYWs5-QA-unsplash.jpg);
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.background-img1{
+    background-image: url(./shubham-dhage-R2HtYWs5-QA-unsplash.jpg);
+    background-size: 20% 20%;
+/*    background-size:contain;*/
+    color: white;
+    height: 100%;
+    width: 100%;
+    background-repeat: repeat;
+    margin: 0;
+    padding: 0;
+}
+
+.panel-heading1{
+    background-color: transparent;
+}
+
+.reg-text{
+    color: white;
+}
+
+.reg-btn{
+    background-color: #333;
+    color: #fff;
+}
+
+.text-center1{
+    text-align: center;
+    font-size: 80px;
+}
+
+.text1{
+    color: #333;
+}
+.panel-new{
+    padding: 0px;
+    margin: 0px;
+}
+
+.panel1{
+    margin-bottom: 50px;
+    border: solid 1px black;
+}
+
+
+
+.panel-heading2 {
+/*  padding: 2px 5px;*/
+  border-bottom: 1px solid transparent;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+  background-color: transparent;
+    
+}
+.text2{
+    color: white;
+}
+.container2{
+    margin: 0px;
+}
+.border-box{
+    border: 1px solid white;
+}
+.col{
+    margin-top: 10%;
+    display: fixed;
+    width: 100%;
+    
+    
+}
+.para1{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 20px;
+    
+}
+.abt{
+    text-align: center;
+    width: 20%;
+    margin-left: 40%;
+    margin-right: 40%;
+    font-size: 40px;
+    margin-top: 0px;
+    margin-bottom: 40px;
+}
+.subcontainer{
+    margin-top: 3%;
+}
+.sub1{
+    width: 35%;
+    float: left;
+    margin-left: 10%;
+    text-align: center;
+    margin-right: 10%;
+    border: 1px solid white;
+    padding: 20px;
+}
+.sub2{
+    float: right;
+    width: 35%;
+    margin-right: 10%;
+    text-align: center;
+    border: 1px solid white;
+    padding: 20px;
+}
+h5{
+    font-size: 30px;
+}
+.abt-sub{
+    text-align: center;
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
+    font-size: 40px;
+    margin-top: 0px;
+/*    margin-bottom: 40px;*/
+}
+
+.sub-text{
+    margin-top: 20px;
+    font-size: 15px;
+}
+.sub1 li{
+    text-align: left;
+}
+
+.sub2 li{
+    text-align: left;
+}
